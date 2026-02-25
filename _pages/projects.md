@@ -25,7 +25,7 @@ toc: true
 
 项目地址：[Github](https://github.com/AlizeLiu/Hospital-Information-System )
 
-### 2. 基于Gin的医院诊疗与信息管理系统的设计与实现
+### 2.  Hrsync语音转存服务
 **时间**：2024.03- 2024.05 
 
 独立重构项目 
