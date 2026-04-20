@@ -1,0 +1,26 @@
+# _config.yml
+title: Alize's Personal Website
+description: "This is a personal website for Alize."
+remote_theme: mmistakes/minimal-mistakes 
+minimal_mistakes_skin: "default" # 可选皮肤：air, contrast, dark等
+
+# 侧边栏个人信息（对应“简介”的一部分）
+author:
+  name: "刘柏良"
+  avatar: "/images/photo1.jpg"
+  bio: "电子信息-生物医学工程专业硕士在读<br>研究方向：生物医学工程、病理图像处理<br>"
+  location: "Shanghai, China"
+
+  links:
+    - label: "255372639@st.usst.edu.cn"
+      icon: "fas fa-fw fa-envelope-open-text"
+      url: "mailto:255372639@st.usst.edu.cn"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AlizeLiu"
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-include-cache
